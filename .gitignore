@@ -18,3 +18,5 @@ videos/**/*.mp4
 
 # Web compression test folder
 videos_web/
+
+!videos/hero_sec.mp4
