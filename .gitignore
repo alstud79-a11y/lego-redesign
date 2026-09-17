@@ -20,3 +20,6 @@ videos/**/*.mp4
 videos_web/
 
 !videos/hero_sec.mp4
+
+!videos/영상 6개/collosseum_web.mp4
+!videos/Animating_panoramic_LEGO_world_web.mp4
